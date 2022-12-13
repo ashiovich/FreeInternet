@@ -1,4 +1,4 @@
-# Two ways
+.# Two ways
  1. ![Automated script for Vmess, Vless, and other protocols installation](https://github.com/WeAreMahsaAmini/FreeInternet/edit/main/protocols/vmess/README.md#automated-installation-script)
  2. Use the below content 
 
